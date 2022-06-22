@@ -5,7 +5,7 @@
 ### contoh storeprocedure yang digunakan
 #### storeprocdure yang di buat untuk uncal receiver harus memberikan nilai balik, untuk menghindari error bayangan
 ```
-ALTER PROCEDURE [dbo].[SP_Promise_Budget](
+CREATE PROCEDURE [dbo].[SP_Promise_Budget](
 	@GL_CODE int,
 	@GL_NAME varchar(100),
 	@GL_GROUP_CODE int,
