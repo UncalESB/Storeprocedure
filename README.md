@@ -1,6 +1,7 @@
 # Storeprocedure
 ### gambar udm
 ![alt text](https://github.com/UncalESB/Storeprocedure/blob/main/sp_uncal_receiver.png)
+![alt text](https://github.com/UncalESB/Storeprocedure/blob/main/mappingan.JPG)
 ### contoh storeprocedure yang digunakan
 #### storeprocdure yang di buat untuk uncal receiver harus memberikan nilai balik, untuk menghindari error bayangan
 ```
